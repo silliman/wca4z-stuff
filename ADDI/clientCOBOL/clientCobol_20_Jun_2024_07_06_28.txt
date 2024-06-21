@@ -1,0 +1,38 @@
+User Name : WinAdmin
+Computer Name : d-10098-k-win
+IP Address : 10.249.2.126
+[6/20/2024  7:04 AM]  Building project...
+[6/20/2024  7:04 AM]  Removing the precedent artifacts. Might be a lengthy operation depending on the data size. Please wait!
+[6/20/2024  7:04 AM]  zOS Cobol Program			COBOLXMP.cbl
+[6/20/2024  7:04 AM]  zOS Cobol Program			LGACDB01.cbl
+[6/20/2024  7:04 AM]  zOS Cobol Program			LGACDB02.cbl
+[6/20/2024  7:04 AM]  zOS Cobol Program			LGACUS01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGACVS01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGAPDB01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGAPOL01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGAPVS01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGASTAT1.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGDPDB01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGDPOL01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGDPVS01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGICDB01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGICVS01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGIPDB01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGIPOL01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGIPVS01.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGSETUP.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGSTSQ.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGTESTC1.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGTESTP1.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGTESTP2.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGTESTP3.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGTESTP4.cbl
+[6/20/2024  7:05 AM]  zOS Cobol Program			LGUCDB01.cbl
+[6/20/2024  7:06 AM]  zOS Cobol Program			LGUCUS01.cbl
+[6/20/2024  7:06 AM]  zOS Cobol Program			LGUCVS01.cbl
+[6/20/2024  7:06 AM]  zOS Cobol Program			LGUPDB01.cbl
+[6/20/2024  7:06 AM]  zOS Cobol Program			LGUPOL01.cbl
+[6/20/2024  7:06 AM]  zOS Cobol Program			LGUPVS01.cbl
+[6/20/2024  7:06 AM]  zOS Cobol Program			LGWEBST5.cbl
+[6/20/2024  7:06 AM]   - 0 error(s), 0 warning(s)
+[6/20/2024  7:06 AM]  Process duration: 0 hours 2 minutes 27 seconds.

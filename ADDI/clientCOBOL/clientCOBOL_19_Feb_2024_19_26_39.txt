@@ -1,9 +1,0 @@
-User Name : WinAdmin
-Computer Name : d-10098-k-win
-IP Address : 10.240.0.51
-[2/19/2024  19:26 PM]  Building project...
-[2/19/2024  19:26 PM]  Removing the precedent artifacts. Might be a lengthy operation depending on the data size. Please wait!
-[2/19/2024  19:26 PM]  zOS Cobol Program			add your client's COBOL here..txt
-[2/19/2024  19:26 PM]  C:\IBM AD\Mainframe Projects\clientCOBOL\zOS Cobol\add your client's COBOL here..txt(1) : Error [999] : Syntax error: 'IDENTIFICATION DIVISION was not found'
-[2/19/2024  19:26 PM]   - 1 error(s), 0 warning(s)
-[2/19/2024  19:26 PM]  Process duration: 0 hours 0 minutes 11 seconds.

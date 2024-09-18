@@ -3,7 +3,7 @@
 1. Clone this project in git bash terminal with:
 
 	```
-	git clone https://github.com/siler23/wca4z-pilot-shortcut.git
+	git clone --recurse-submodules https://github.com/siler23/wca4z-pilot-shortcut.git
 	```
 
 2. Open a command prompt and create and build clientCobol ADDI project using the following command:  
